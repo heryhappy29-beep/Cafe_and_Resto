@@ -324,7 +324,7 @@ export class ThermalPrinterService {
 
     // Header Toko
     out += this.ALIGN_CENTER;
-    out += this.BOLD_ON + "SENJA RASA CAFE\\n" + this.BOLD_OFF;
+    out += this.BOLD_ON + "NADIRA CAFE AND RESTO\\n" + this.BOLD_OFF;
     out += "Jl. Sudirman No. 45, Jakarta\\n";
     out += "Telp: 0812-3456-7890\\n";
     out += "--------------------------------\\n";

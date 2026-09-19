@@ -86,7 +86,7 @@ export const CashierView: React.FC = () => {
   const generateReceiptPlainText = (receipt: PaymentRecord) => {
     const ord = orders.find(o => o.id === receipt.orderId);
     let text = `================================\n`;
-    text += `        SENJA RASA CAFE        \n`;
+    text += `     NADIRA CAFE AND RESTO      \n`;
     text += `   Jl. Sudirman No. 45, Jakarta \n`;
     text += `      Telp: 0812-3456-7890     \n`;
     text += `================================\n`;
@@ -557,7 +557,7 @@ export const CashierView: React.FC = () => {
               className="bg-stone-100 text-stone-900 font-mono text-xs p-4 rounded-lg shadow-inner border border-stone-300 max-h-96 overflow-y-auto"
             >
               <div className="text-center pb-2 border-b border-dashed border-stone-400">
-                <h4 className="font-extrabold text-sm uppercase tracking-wider">SENJA RASA CAFE</h4>
+                <h4 className="font-extrabold text-sm uppercase tracking-wider">NADIRA CAFE AND RESTO</h4>
                 <p className="text-[10px] text-stone-600">Jl. Sudirman No. 45, Jakarta</p>
                 <p className="text-[10px] text-stone-600">Telp: 0812-3456-7890</p>
               </div>

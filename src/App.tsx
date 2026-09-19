@@ -36,7 +36,7 @@ export default function App() {
           <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3">
             <div className="flex items-center gap-2">
               <Coffee className="w-4 h-4 text-amber-500" />
-              <span className="font-semibold text-stone-300">Senja Rasa CafePOS</span>
+              <span className="font-semibold text-stone-300">Nadira Cafe and Resto</span>
               <span className="text-stone-600">&bull;</span>
               <span>Sistem Pemesanan Multi-User RBAC (Admin &bull; Kasir &bull; Pelayan &bull; Dapur)</span>
             </div>
