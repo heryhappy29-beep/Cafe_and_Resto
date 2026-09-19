@@ -1,0 +1,6 @@
+{
+  "name": "CafePOS & Order System",
+  "description": "Sistem Pemesanan Menu Cafe Multi-User (RBAC) dengan modul Admin, Kasir, Pelayan, KDS Dapur, skema database, workflow transaksi anti-konflik, dan dokumentasi arsitektur sistem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
